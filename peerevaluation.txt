@@ -1,0 +1,37 @@
+Name:Ian Newhart
+Date: 10/19/2019
+Project: Space Shooter
+Peer's repository: Jonah Lazarz
+
+
+
+What is something you learned by reviewing your peer's project?
+
+Averything implemented was taught in lecture
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+
+Better sprites
+
+What suggestions would you have for your peer to improve his/her code?
+
+I have none
+
+What could have been clearer or better commented?
+
+Nothing
+
+Was there anything in the code that was confusing to you? If so, what?
+
+No, I understood it all
+
+Does the repository contain an appropriate LICENSE?
+
+Yes
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+Make it more descriptive so some one not in the class could understand it
+
+Pay a compliment to your peer based on the quality of his/her code.
+
